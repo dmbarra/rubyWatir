@@ -1,0 +1,8 @@
+#App
+url: 'http://localhost:4567'
+timeout: 10
+
+#User for app
+user: ""
+pass: ""
+question: ""

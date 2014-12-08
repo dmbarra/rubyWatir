@@ -1,0 +1,23 @@
+
+#Titles
+titleExtraVerification: "ThoughtWorks - Extra Verification"
+pageTitle: 'Encrypter'
+
+#Devices
+deviceName: "MacBook Pro" 
+serialNumber: "CN02NTESTEAUTOMAT1Z0" 
+deviceKey: "WWWWW-WWWWW-WWWWWW-WWWWW-WWWWW"
+
+#Messages Keys
+sucessMessageKey: 'Success! Key created.'
+sucessRemoveMessageKey: 'Success! Key deleted.'
+
+#Messages Keys
+sucessMessageUser: 'Success! User created.'
+sucessRemoveMessageUser: 'Success! User deleted.'
+sucessUpdateMessageUser: 'Success! User updated.'
+
+#Users
+email: "dmbarra@gmail.com"
+office: "Perth"
+Role:
