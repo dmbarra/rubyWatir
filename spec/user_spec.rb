@@ -1,8 +1,7 @@
 require_relative 'spec_helper'
 
-config = YAML.load_file("../config/config.yml")
-data = YAML.load_file("../fixtures/data_tests.yml")
-
+config = YAML::load_file(File.join(__dir__, '../config/config.yml'))
+data = YAML::load_file(File.join(__dir__, '../fixtures/data_tests.yml'))
 
 describe "Creating Users" do 
   it "Should be connected" do 
